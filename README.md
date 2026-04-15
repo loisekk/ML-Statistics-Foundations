@@ -1,4 +1,4 @@
-📊 ML-Statistics-Foundations
+## 📊 ML-Statistics-Foundations
 
 A structured collection of core statistical concepts essential for Machine Learning, Deep Learning, and AI systems.
 
